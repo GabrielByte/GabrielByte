@@ -24,12 +24,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <br/>
 <br/>
-<details>
-  <summary>:computer: GitHub Stats</summary>
 
- <img align="left" alt="Gabriel Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielByte&theme=dracula&show_icons=true&hide_border=true&hide=issues,contribs,prs" />
-
-</details>
 
 <!--
 **GabrielByte/GabrielByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
