@@ -24,6 +24,12 @@
 <br/>
 <br/>
 
+<details>
+  <summary>:wolf: GitHub Stats</summary>
+
+ [![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=GabrielByte&theme=midnight-purple&show_icons=true)](https://github.com/GabrielByte/github-readme-stats)
+
+</details>
 
 <!--
 **GabrielByte/GabrielByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
