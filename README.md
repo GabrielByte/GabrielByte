@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/gabriel-romão-672bab201" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.instagram.com/bielgmr_99/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/gabriel-romão-672bab201" target="_blank"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/linkedin.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.instagram.com/bielgmr_99/?hl=en" target="_blank"><img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/instagram.png" alt="Instagram" width="30"></a>
 <br/>
 
 ### Languages and tools
