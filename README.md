@@ -1,12 +1,10 @@
 ### Hi there <img src="https://github.com/GabrielByte/GabrielByte/blob/main/img/Hi.gif" width="30px"> I'm Gabriel
 
 ### About me:
-<br/>
 
 - :space_invader: I'm 21 years old
 - :books: I’m currently learning a lot of things
 - :notes: I love music and i also love play [guitar](https://www.instagram.com/tv/CBTi_jWgNkh/?utm_source=ig_web_copy_link)
-<br/>
 
 ### Connect with me:
 
